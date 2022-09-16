@@ -1,13 +1,13 @@
 ::StoryData
 {
-    "ifid": "1CF70195-D27A-4D37-A550-005AEBD8BB0E",
+    "ifid": "6AD333EF-A53A-477A-86FC-93B66975C606",
     "format": "SugarCube",
     "format-version": "2.36.1",
     "start": "Start"
 }
 
 ::StoryTitle
-Template
+The Maelstrom and the Tempests
 
 :: StoryInit
 /* Used for pre-story-start initialization tasks, like variable initialization (happens at the beginning of story initialization). Generates no output. */
