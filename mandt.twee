@@ -13,37 +13,33 @@ The Maelstrom and the Tempests
 /* Used for pre-story-start initialization tasks, like variable initialization (happens at the beginning of story initialization). Generates no output. */
 
 :: StoryDisplayTitle
-/* Sets the story's display title in the browser's titlebar and the UI bar (element ID: story-title). If omitted, the story title will be used instead. */
-Half Guinea Press
+The Maelstrom and the Tempests
 
 :: StoryBanner
 /* Used to populate the story's banner area in the UI bar (element ID: story-banner). */
 
 :: StorySubtitle
-/* Sets the story's subtitle in the UI bar (element ID: story-subtitle). */
-Currently a random assortment of notes, thoughts, ideas, and other mental quandries...
+A campaign setting for DnD 5e
 
 :: StoryAuthor
 by:
 Madilyn
 
 :: StoryCaption
-/* Used to populate the story's caption area in the UI bar (element ID: story-caption). May also be, and often is, used to add additional story UI elements and content to the UI bar. */
+Something wittty and cool
 
 :: StoryMenu
-/* Used to populate the story's menu items in the UI bar (element ID: menu-story).
-NOTE: The story menu only displays links—specifically, anything that creates an anchor element (<a>). While it renders content just as any other passage does, instead of displaying the rendered output as-is, it sifts through the output and builds its menu from the generated links contained therein.
-Examples:
-[[Inventory]]
-<<link "Schedule">>…<</link>> */
 [[Start]]
+[[Player Characters|PCs]]
+[[Non-Player Characters|NPCs]]
+[[Places]]
+[[Lore]]
 [[Half Guinea Press|https://red-panda-rogues.github.io/halfguineapress/]]
 [[The Mokosh Tower|https://red-panda-rogues.github.io/mokoshtower/]]
 [[Tag Names]]
 
 :: StoryShare
 /* Used to populate the contents of the Share dialog. Intended for social media links.
-NOTE: The Share dialog only displays links—specifically, anything that creates an anchor element (<a>). While it renders content just as any other passage does, instead of displaying the rendered output as-is, it sifts through the output and builds its contents from the generated links contained therein. */
 
 :: PassageDone
 /* Used for post-passage-display tasks, like redoing dynamic changes (happens after the rendering and display of each passage). Generates no output. */
@@ -60,6 +56,14 @@ NOTE: The Share dialog only displays links—specifically, anything that creates
 :: Start
 This is a twee template repository
 
+:: PCs
+
+:: NPCs
+
+:: Places
+
+:: Lore
+
 :: Tag Names
 
 bookmark
@@ -72,14 +76,6 @@ NOTE: Does not affect script or stylesheet tagged passages, for Twine 1/Twee.
 init
 Registers the passage as an initialization passage. Used for pre-story-start initialization tasks, like variable initialization (happens at the beginning of story initialization). Generates no output.
 NOTE: This is chiefly intended for use by add-ons/libraries. For normal projects, authors are encouraged to continue to use the StoryInit special named passage.
-
-script
-Twine 2: Not special. Use the Edit Story JavaScript story editor menu item for scripts.
-Twine 1/Twee: Registers the passage as JavaScript code, which is executed during startup.
-
-stylesheet
-Twine 2: Not special. Use the Edit Story Stylesheet story editor menu item for styles.
-Twine 1/Twee: Registers the passage as a CSS stylesheet, which is loaded during startup. It is strongly recommended that you use only one stylesheet passage. Additionally, see the tagged stylesheet warning.
 
 Twine.audio
 Registers the passage as an audio passage. See Guide: Media Passages for more information.
