@@ -5,66 +5,92 @@
     "format-version": "2.36.1",
     "start": "Start"
 }
+EOP
 
 ::StoryTitle
 The Maelstrom and the Tempests
+EOP
 
 :: StoryInit
 /* Used for pre-story-start initialization tasks, like variable initialization (happens at the beginning of story initialization). Generates no output. */
+EOP
 
 :: StoryDisplayTitle
 The Maelstrom and the Tempests
+EOP
 
 :: StoryBanner
 /* Used to populate the story's banner area in the UI bar (element ID: story-banner). */
+EOP
 
 :: StorySubtitle
 A campaign setting for DnD 5e
+EOP
 
 :: StoryAuthor
 by:
 Madilyn
+EOP
 
 :: StoryCaption
 Something wittty and cool
+EOP
 
 :: StoryMenu
 [[Start]]
-[[Timeline]]
-[[Player Characters|PCs]]
-[[Non-Player Characters|NPCs]]
-[[Places]]
-[[Races]]
-[[Classes]]
-[[Science and Magic]]
-[[Lore]]
-[[Organizations]]
-[[Items]]
-[[Half Guinea Press|https://red-panda-rogues.github.io/halfguineapress/]]
-[[The Mokosh Tower|https://red-panda-rogues.github.io/mokoshtower/]]
+[[Campaign]]
+[[Characters]]
+[[World]]
+[[Links]]
 [[Tag Names]]
+EOP
 
 :: StoryShare
 /* Used to populate the contents of the Share dialog. Intended for social media links.
+EOP
 
 :: PassageDone
 /* Used for post-passage-display tasks, like redoing dynamic changes (happens after the rendering and display of each passage). Generates no output. */
+EOPEOP
 
 :: PassageFooter
 /* Appended to each rendered passage. */
+EOP
 
 :: PassageHeader
 /* Prepended to each rendered passage. */
+EOP
 
 :: PassageReady
 /* Used for pre-passage-display tasks, like redoing dynamic changes (happens before the rendering of each passage). Generates no output. */
+EOP
 
 :: Start
-This is a twee template repository
+Well met traveler. My name is Bezan Kailar Parvarish and I am the lead research librarian here at the **Insert Library's Name Here**. I have been selected for the termendous task of recording and archiving the plethora of adventurers and adventures of our age. So I want to thank you so much for responding to the herald announcement.
+EOP
+
+::Campaign
+[[Plot]]
+[[Scenes]]
+[[Timeline]]
+EOP
+
+:: Plot
+EOP
+
+:: Scenes
+EOP
 
 :: Timeline
+EOP
+
+:: Characters
+[[Player Characters|PCs]]
+[[Non-Player Characters|NPCs]]
+EOP
 
 :: PCs
+EOP
 
 :: NPCs
 NPC Template
@@ -165,13 +191,27 @@ Reggie Gnoll Arre Gu Lar The Gnoll
 Bar Owner
 Bartender
 Underworld Contact
+EOP
+
+:: World
+[[Places]]
+[[Races]]
+[[Classes]]
+[[Science and Magic]]
+[[Lore]]
+[[Organizations]]
+[[Items]]
+EOP
 
 :: Races
 Grimwalker
+EOP
 
 :: Classes
+EOP
 
 :: Science and Magic
+EOP
 
 :: Places
 The Dead Atoll
@@ -182,8 +222,10 @@ The Corpse Of The Titan
 The Dragon Teeth
 The Waste Lands
 The Pirate Fief Islands
+EOP
 
 :: Lore
+EOP
 
 :: Organizations
 The Houses Of Science
@@ -196,11 +238,18 @@ The Cult Of The Titan
 The Pleides
 The Hyades
 The Hesperides
+EOP
 
 :: Items
 Nebra Sky Disc
 Practice Wand
 Pallid Mask
+EOP
+
+::Links
+[[Half Guinea Press|https://red-panda-rogues.github.io/halfguineapress/]]
+[[The Mokosh Tower|https://red-panda-rogues.github.io/mokoshtower/]]
+EOP
 
 :: Tag Names
 
@@ -229,3 +278,4 @@ Registers the passage as a VTT passage. See Guide: Media Passages for more infor
 
 widget
 Registers the passage as <<widget>> macro definitions, which are loaded during startup.
+EOP
