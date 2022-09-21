@@ -30,6 +30,7 @@ Something wittty and cool
 
 :: StoryMenu
 [[Start]]
+[[Timeline]]
 [[Player Characters|PCs]]
 [[Non-Player Characters|NPCs]]
 [[Places]]
@@ -61,6 +62,8 @@ Something wittty and cool
 :: Start
 This is a twee template repository
 
+:: Timeline
+
 :: PCs
 
 :: NPCs
@@ -69,7 +72,10 @@ Name
 Short Descriptor
 Quote
 Description
-Sight/Sound/Tactile/Smell
+Sight
+Sound
+Tactile
+Smell
 Voice
 Personality
 Roleplaying Concepts
