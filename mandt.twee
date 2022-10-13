@@ -21,9 +21,7 @@ The Maelstrom and the Tempests
 
 :: StoryBanner
 /* Used to populate the story's banner area in the UI bar (element ID: story-banner). */
-This is to see where this lines up on the screen. So there for this is a test..............................................................................
-...........................................................................................................................................................
-
+!This is to see where this lines up on the screen. So there for this is a test
 
 :: StorySubtitle
 A campaign setting for DnD 5e
@@ -57,13 +55,13 @@ Something wittty and cool
 
 :: PassageFooter
 /* Appended to each rendered passage. */
-FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER
+!FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER
 FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER
 
 
 :: PassageHeader
 /* Prepended to each rendered passage. */
-HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER 
+!HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER 
 HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER 
 
 :: PassageReady
