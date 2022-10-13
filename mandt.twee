@@ -56,8 +56,8 @@ Something wittty and cool
 
 :: PassageFooter
 /* Appended to each rendered passage. */
-!FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER 
 <hr>
+!FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER 
 
 :: PassageHeader
 /* Prepended to each rendered passage. */
