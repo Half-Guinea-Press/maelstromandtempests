@@ -22,7 +22,7 @@ The Maelstrom and the Tempests
 :: StoryBanner
 /* Used to populate the story's banner area in the UI bar (element ID: story-banner). */
 !This is to see where this lines up on the screen. So there for this is a test
----
+<hr>
 
 :: StorySubtitle
 A campaign setting for DnD 5e
@@ -57,12 +57,12 @@ Something wittty and cool
 :: PassageFooter
 /* Appended to each rendered passage. */
 !FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER 
----
+<hr>
 
 :: PassageHeader
 /* Prepended to each rendered passage. */
 !HEADER HEADER HEADER HEADER HEADER HEADER
----
+<hr>
 
 :: PassageReady
 /* Used for pre-passage-display tasks, like redoing dynamic changes (happens before the rendering of each passage). Generates no output. */
