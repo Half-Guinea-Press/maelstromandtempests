@@ -6,10 +6,8 @@
     "start": "Start"
 }
 
-
 ::StoryTitle
 The Maelstrom and the Tempests
-
 
 :: StoryInit
 /* Used for pre-story-start initialization tasks, like variable initialization (happens at the beginning of story initialization). Generates no output. */
@@ -34,6 +32,12 @@ Something wittty and cool
 
 :: StoryMenu
 [[Start]]
+[[People]]
+[[Place]]
+[[Thing]]
+[[Story]]
+[[Mechanic]]
+
 [[Campaign]]
 [[Characters]]
 [[World]]
@@ -60,33 +64,25 @@ Something wittty and cool
 :: PassageReady
 /* Used for pre-passage-display tasks, like redoing dynamic changes (happens before the rendering of each passage). Generates no output. */
 
-
 :: Start
 Well met traveler. My name is Bezan Kailar Parvarish and I am the lead research librarian here at the **Insert Library's Name Here**. I have been selected for the termendous task of recording and archiving the plethora of adventurers and adventures of our age. So I want to thank you so much for responding to the herald announcement.
-
 
 ::Campaign
 [[Plot]]
 [[Scenes]]
 [[Timeline]]
 
-
 :: Plot
-
 
 :: Scenes
 
-
 :: Timeline
-
 
 :: Characters
 [[Player Characters|PCs]]
 [[Non-Player Characters|NPCs]]
 
-
 :: PCs
-
 
 :: NPCs
 NPC Template
@@ -188,7 +184,6 @@ Bar Owner
 Bartender
 Underworld Contact
 
-
 :: World
 [[Places]]
 [[Races]]
@@ -198,16 +193,12 @@ Underworld Contact
 [[Organizations]]
 [[Items]]
 
-
 :: Races
 Grimwalker
 
-
 :: Classes
 
-
 :: Science and Magic
-
 
 :: Places
 The Dead Atoll
@@ -219,9 +210,7 @@ The Dragon Teeth
 The Waste Lands
 The Pirate Fief Islands
 
-
 :: Lore
-
 
 :: Organizations
 The Houses Of Science
@@ -235,17 +224,14 @@ The Pleides
 The Hyades
 The Hesperides
 
-
 :: Items
 Nebra Sky Disc
 Practice Wand
 Pallid Mask
 
-
 ::Links
 [[Half Guinea Press|https://red-panda-rogues.github.io/halfguineapress/]]
 [[The Mokosh Tower|https://red-panda-rogues.github.io/mokoshtower/]]
-
 
 :: Tag Names
 
