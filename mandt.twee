@@ -18,17 +18,15 @@ The Maelstrom and the Tempests
 <hr>
 
 :: StoryDisplayTitle
-The Maelstrom and the Tempests
+The Maelstrom and Tempests
 
 :: StorySubtitle
-A campaign setting for DnD 5e
+A setting for DnD 5e
 
 :: StoryAuthor
-by:
-Madilyn
+by: Madilyn
 
 :: StoryCaption
-Something wittty and cool
 <hr>
 [img[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACsAAAAyCAAAAADg731PAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAOISURBVEjHzZVtTFZlGMev1lobay11RouK/NBaCVhj2tsqHQzZsK0PZGlRjWXatHSU64XUpq2pbVoZvlSisw21FwfITHM15ygy0cyQ1ViSIgIFKEJd9zn3OfevD5wHHp4Hgg+tdX89v93nuv7X//rfomM/8p+xBoAxsYas3MKsXYyFdVUNuV/l1AejsC5QVUpTgGCUGlxlXaCcSaMzDEbrjY82wHsC7WJH7Y0HMy+f6MEMyV80Wm+Gb9vgoNRxcXzEeiPrEPomnNDCVmkNVFU9znv/rC9VE3CqqiFTV2MwyayJTcu2SqevqvRdvR+f6X0mkTWsvXcZqhoAvqqGLfI7DplN0r3cUNw9sckqzRnpzb6q4c5O6JYDJNVL2fvQdBJez6DXYZTls+Br6XmjFFX1iGcnYzRw5beUfreJ1pv7jKdzWCQXWPooit8txLHXATRK+aEyjskmVD3mCmTOwfC081AzyE4qqnhtXHYv8EQKpVb7u7xrtme5fh6qWCMDMrx000Pf4NM15R06Yz5zR9b+xW1voYaNtyPx8jq1F9I6cNulww+dKgD3FYPlbcEkzA1pX3OKmjT4YY9jncyCVT0sCHLkMIkztj+vamS3wAmpZs0rZR+i2EDO3b2YZD8EWKbB93KJHfJAFaqq5MlSht95HmtbfivewssOxTY6cooMt/HjHv8grBXweFGuYiRPGjYXzZX83T4FZ4H0+QcmjcAaZdozeQ8DhuKSps8LJ1fUDtp3yB7Ta6gpPN3/lbO/kALYYfbC8eMVK9DBaPB9Ciz76mwiC8dnyjqiUUUl+n/cMzWfxHvZtuQO+RSFT2amjr9xZwweGoIRG+bIeSyfXSOyZF/t4gwiVWrKnap6doD12SapQE+uZDcAIKiqet3bD+IAd9pFLMyQ6VgaRPbgVNW2S/+09vbC0YI8Eal0qirKKZFXMWyVzKg6Vj+HeszfAiWS+nJlrFvhuMhKlAopwos0Ebygb0oHR+SRi0Ase+SSyJcoJ2VXNCFaZDOc6IJaqebMsrjc2XhlI2qQhf3/92iS9VBSid8r9SjPrhjMEnCqfBHZCRZIPb8+34yGh+9HDU9mJ+QO7x51qgrVIhv4bSVW1SDAMemyQ1lXsx6g/lpJ92iPUp0dIiItSZ7kqXklRSJZe/nphYFeCFvbCJN9xp8Vb358DvZviTOsZ+2wue71ezXg//B2/zvs32IKRXWd6ZWPAAAAAElFTkSuQmCC]]
 A Half Guinea
@@ -41,7 +39,6 @@ Press Project
 [[Thing]]
 [[Story]]
 [[Mechanic]]
-[[World]]
 [[Links]]
 [[Tag Names]]
 
@@ -58,6 +55,8 @@ Press Project
 
 :: PassageFooter
 /* Appended to each rendered passage. */
+<hr>
+!FOOTER
 
 :: PassageDone
 /* Used for post-passage-display tasks, like redoing dynamic changes (happens after the rendering and display of each passage). Generates no output. */
