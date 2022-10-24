@@ -5,13 +5,6 @@
     "format-version": "2.36.1",
     "start": "Start"
 }
-::StoryData
-{
-    "ifid": "6AD333EF-A53A-477A-86FC-93B66975C606",
-    "format": "SugarCube",
-    "format-version": "2.36.1",
-    "start": "Start"
-}
 
 ::StoryTitle
 The Maelstrom and the Tempests
@@ -36,6 +29,10 @@ Madilyn
 
 :: StoryCaption
 Something wittty and cool
+<hr>
+[img[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACsAAAAyCAAAAADg731PAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAOISURBVEjHzZVtTFZlGMev1lobay11RouK/NBaCVhj2tsqHQzZsK0PZGlRjWXatHSU64XUpq2pbVoZvlSisw21FwfITHM15ygy0cyQ1ViSIgIFKEJd9zn3OfevD5wHHp4Hgg+tdX89v93nuv7X//rfomM/8p+xBoAxsYas3MKsXYyFdVUNuV/l1AejsC5QVUpTgGCUGlxlXaCcSaMzDEbrjY82wHsC7WJH7Y0HMy+f6MEMyV80Wm+Gb9vgoNRxcXzEeiPrEPomnNDCVmkNVFU9znv/rC9VE3CqqiFTV2MwyayJTcu2SqevqvRdvR+f6X0mkTWsvXcZqhoAvqqGLfI7DplN0r3cUNw9sckqzRnpzb6q4c5O6JYDJNVL2fvQdBJez6DXYZTls+Br6XmjFFX1iGcnYzRw5beUfreJ1pv7jKdzWCQXWPooit8txLHXATRK+aEyjskmVD3mCmTOwfC081AzyE4qqnhtXHYv8EQKpVb7u7xrtme5fh6qWCMDMrx000Pf4NM15R06Yz5zR9b+xW1voYaNtyPx8jq1F9I6cNulww+dKgD3FYPlbcEkzA1pX3OKmjT4YY9jncyCVT0sCHLkMIkztj+vamS3wAmpZs0rZR+i2EDO3b2YZD8EWKbB93KJHfJAFaqq5MlSht95HmtbfivewssOxTY6cooMt/HjHv8grBXweFGuYiRPGjYXzZX83T4FZ4H0+QcmjcAaZdozeQ8DhuKSps8LJ1fUDtp3yB7Ta6gpPN3/lbO/kALYYfbC8eMVK9DBaPB9Ciz76mwiC8dnyjqiUUUl+n/cMzWfxHvZtuQO+RSFT2amjr9xZwweGoIRG+bIeSyfXSOyZF/t4gwiVWrKnap6doD12SapQE+uZDcAIKiqet3bD+IAd9pFLMyQ6VgaRPbgVNW2S/+09vbC0YI8Eal0qirKKZFXMWyVzKg6Vj+HeszfAiWS+nJlrFvhuMhKlAopwos0Ebygb0oHR+SRi0Ase+SSyJcoJ2VXNCFaZDOc6IJaqebMsrjc2XhlI2qQhf3/92iS9VBSid8r9SjPrhjMEnCqfBHZCRZIPb8+34yGh+9HDU9mJ+QO7x51qgrVIhv4bSVW1SDAMemyQ1lXsx6g/lpJ92iPUp0dIiItSZ7kqXklRSJZe/nphYFeCFvbCJN9xp8Vb358DvZviTOsZ+2wue71ezXg//B2/zvs32IKRXWd6ZWPAAAAAElFTkSuQmCC]]
+A Half Guinea
+Press Project
 
 :: StoryMenu
 [[Start]]
@@ -61,20 +58,25 @@ Something wittty and cool
 
 :: PassageFooter
 /* Appended to each rendered passage. */
-<hr>
-[img[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACsAAAAyCAAAAADg731PAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAOISURBVEjHzZVtTFZlGMev1lobay11RouK/NBaCVhj2tsqHQzZsK0PZGlRjWXatHSU64XUpq2pbVoZvlSisw21FwfITHM15ygy0cyQ1ViSIgIFKEJd9zn3OfevD5wHHp4Hgg+tdX89v93nuv7X//rfomM/8p+xBoAxsYas3MKsXYyFdVUNuV/l1AejsC5QVUpTgGCUGlxlXaCcSaMzDEbrjY82wHsC7WJH7Y0HMy+f6MEMyV80Wm+Gb9vgoNRxcXzEeiPrEPomnNDCVmkNVFU9znv/rC9VE3CqqiFTV2MwyayJTcu2SqevqvRdvR+f6X0mkTWsvXcZqhoAvqqGLfI7DplN0r3cUNw9sckqzRnpzb6q4c5O6JYDJNVL2fvQdBJez6DXYZTls+Br6XmjFFX1iGcnYzRw5beUfreJ1pv7jKdzWCQXWPooit8txLHXATRK+aEyjskmVD3mCmTOwfC081AzyE4qqnhtXHYv8EQKpVb7u7xrtme5fh6qWCMDMrx000Pf4NM15R06Yz5zR9b+xW1voYaNtyPx8jq1F9I6cNulww+dKgD3FYPlbcEkzA1pX3OKmjT4YY9jncyCVT0sCHLkMIkztj+vamS3wAmpZs0rZR+i2EDO3b2YZD8EWKbB93KJHfJAFaqq5MlSht95HmtbfivewssOxTY6cooMt/HjHv8grBXweFGuYiRPGjYXzZX83T4FZ4H0+QcmjcAaZdozeQ8DhuKSps8LJ1fUDtp3yB7Ta6gpPN3/lbO/kALYYfbC8eMVK9DBaPB9Ciz76mwiC8dnyjqiUUUl+n/cMzWfxHvZtuQO+RSFT2amjr9xZwweGoIRG+bIeSyfXSOyZF/t4gwiVWrKnap6doD12SapQE+uZDcAIKiqet3bD+IAd9pFLMyQ6VgaRPbgVNW2S/+09vbC0YI8Eal0qirKKZFXMWyVzKg6Vj+HeszfAiWS+nJlrFvhuMhKlAopwos0Ebygb0oHR+SRi0Ase+SSyJcoJ2VXNCFaZDOc6IJaqebMsrjc2XhlI2qQhf3/92iS9VBSid8r9SjPrhjMEnCqfBHZCRZIPb8+34yGh+9HDU9mJ+QO7x51qgrVIhv4bSVW1SDAMemyQ1lXsx6g/lpJ92iPUp0dIiItSZ7kqXklRSJZe/nphYFeCFvbCJN9xp8Vb358DvZviTOsZ+2wue71ezXg//B2/zvs32IKRXWd6ZWPAAAAAElFTkSuQmCC]]A Half Guinea Press Project
 
 :: PassageDone
 /* Used for post-passage-display tasks, like redoing dynamic changes (happens after the rendering and display of each passage). Generates no output. */
 
 :: Start
-Well met traveler. My name is Bezan Kailar Parvarish and I am the lead research librarian here at the **Insert Library's Name Here**. I have been selected for the termendous task of recording and archiving the plethora of adventurers and adventures of our age. So I want to thank you so much for responding to the herald announcement.
+/* Well met traveler. My name is Bezan Kailar Parvarish and I am the lead research librarian here at the **Insert Library's Name Here**. I have been selected for the termendous task of recording and archiving the plethora of adventurers and adventures of our age. So I want to thank you so much for responding to the herald announcement. */
+Start small and work to big. 
+Work out intial hook.
+Work out character starting point.
+Establish immediate setting.
+Establish tone and theme.
+
 
 ::Story
 [[Plotline]]
 [[Character Arc]]
 [[Scene]]
 [[Timeline]]
+[[Lore]]
 
 :: Plotline
 
@@ -87,10 +89,8 @@ Well met traveler. My name is Bezan Kailar Parvarish and I am the lead research 
 :: Person
 [[Player Characters|PCs]]
 [[Non-Player Characters|NPCs]]
+[[Organization]]
 
-:: PCs
-
-:: NPCs
 NPC Template
 Name
 Short Descriptor
@@ -191,14 +191,9 @@ Bartender
 Underworld Contact
 
 :: Mechanic
-
-:: World
-[[Place]]
 [[Race]]
 [[Class]]
 [[Science and Magic]]
-[[Lore]]
-[[Organization]]
 [[Item]]
 
 :: Races
@@ -220,261 +215,7 @@ The Pirate Fief Islands
 
 :: Lore
 
-:: Organizations
-The Houses Of Science
-The Waste Land Horde
-The Two Legions
-The Empire
-The Pirate Fiefdoms
-The Tribes Of The North
-The Cult Of The Titan
-The Pleides
-The Hyades
-The Hesperides
-
-:: Items
-Nebra Sky Disc
-Practice Wand
-Pallid Mask
-
-::Links
-[[Half Guinea Press|https://red-panda-rogues.github.io/halfguineapress/]]
-[[The Mokosh Tower|https://red-panda-rogues.github.io/mokoshtower/]]
-
-:: Tag Names
-
-bookmark
-Registers the passage into the Jump To menu.
-
-nobr
-Causes leading/trailing newlines to be removed and all remaining sequences of newlines to be replaced with single spaces before the passage is rendered. Equivalent to wrapping the entire passage in a <<nobr>> macro. See the Config.passages.nobr setting for a way to apply the same processing to all passages at once.
-NOTE: Does not affect script or stylesheet tagged passages, for Twine 1/Twee.
-
-init
-Registers the passage as an initialization passage. Used for pre-story-start initialization tasks, like variable initialization (happens at the beginning of story initialization). Generates no output.
-NOTE: This is chiefly intended for use by add-ons/libraries. For normal projects, authors are encouraged to continue to use the StoryInit special named passage.
-
-Twine.audio
-Registers the passage as an audio passage. See Guide: Media Passages for more information.
-
-Twine.image
-Registers the passage as an image passage. See Guide: Media Passages for more information.
-
-Twine.video
-Registers the passage as a video passage. See Guide: Media Passages for more information.
-
-Twine.vtt
-Registers the passage as a VTT passage. See Guide: Media Passages for more information.
-
-widget
-Registers the passage as <<widget>> macro definitions, which are loaded during startup.
-::StoryTitle
-The Maelstrom and the Tempests
-
-:: StoryInit
-/* Used for pre-story-start initialization tasks, like variable initialization (happens at the beginning of story initialization). Generates no output. */
-
-:: StoryBanner
-/* Used to populate the story's banner area in the UI bar (element ID: story-banner). */
-[img[data:image/jpeg;base64,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]]
-<hr>
-
-:: StoryDisplayTitle
-The Maelstrom and the Tempests
-
-:: StorySubtitle
-A campaign setting for DnD 5e
-
-:: StoryAuthor
-by:
-Madilyn
-
-:: StoryCaption
-Something wittty and cool
-
-:: StoryMenu
-[[Start]]
-[[People]]
-[[Place]]
-[[Thing]]
-[[Story]]
-[[Mechanic]]
-
-[[Campaign]]
-[[Characters]]
-[[World]]
-[[Links]]
-[[Tag Names]]
-
-:: StoryShare
-/* Used to populate the contents of the Share dialog. Intended for social media links.
-
-:: PassageDone
-/* Used for post-passage-display tasks, like redoing dynamic changes (happens after the rendering and display of each passage). Generates no output. */
-
-
-:: PassageFooter
-/* Appended to each rendered passage. */
-<hr>
-[img[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACsAAAAyCAAAAADg731PAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAOISURBVEjHzZVtTFZlGMev1lobay11RouK/NBaCVhj2tsqHQzZsK0PZGlRjWXatHSU64XUpq2pbVoZvlSisw21FwfITHM15ygy0cyQ1ViSIgIFKEJd9zn3OfevD5wHHp4Hgg+tdX89v93nuv7X//rfomM/8p+xBoAxsYas3MKsXYyFdVUNuV/l1AejsC5QVUpTgGCUGlxlXaCcSaMzDEbrjY82wHsC7WJH7Y0HMy+f6MEMyV80Wm+Gb9vgoNRxcXzEeiPrEPomnNDCVmkNVFU9znv/rC9VE3CqqiFTV2MwyayJTcu2SqevqvRdvR+f6X0mkTWsvXcZqhoAvqqGLfI7DplN0r3cUNw9sckqzRnpzb6q4c5O6JYDJNVL2fvQdBJez6DXYZTls+Br6XmjFFX1iGcnYzRw5beUfreJ1pv7jKdzWCQXWPooit8txLHXATRK+aEyjskmVD3mCmTOwfC081AzyE4qqnhtXHYv8EQKpVb7u7xrtme5fh6qWCMDMrx000Pf4NM15R06Yz5zR9b+xW1voYaNtyPx8jq1F9I6cNulww+dKgD3FYPlbcEkzA1pX3OKmjT4YY9jncyCVT0sCHLkMIkztj+vamS3wAmpZs0rZR+i2EDO3b2YZD8EWKbB93KJHfJAFaqq5MlSht95HmtbfivewssOxTY6cooMt/HjHv8grBXweFGuYiRPGjYXzZX83T4FZ4H0+QcmjcAaZdozeQ8DhuKSps8LJ1fUDtp3yB7Ta6gpPN3/lbO/kALYYfbC8eMVK9DBaPB9Ciz76mwiC8dnyjqiUUUl+n/cMzWfxHvZtuQO+RSFT2amjr9xZwweGoIRG+bIeSyfXSOyZF/t4gwiVWrKnap6doD12SapQE+uZDcAIKiqet3bD+IAd9pFLMyQ6VgaRPbgVNW2S/+09vbC0YI8Eal0qirKKZFXMWyVzKg6Vj+HeszfAiWS+nJlrFvhuMhKlAopwos0Ebygb0oHR+SRi0Ase+SSyJcoJ2VXNCFaZDOc6IJaqebMsrjc2XhlI2qQhf3/92iS9VBSid8r9SjPrhjMEnCqfBHZCRZIPb8+34yGh+9HDU9mJ+QO7x51qgrVIhv4bSVW1SDAMemyQ1lXsx6g/lpJ92iPUp0dIiItSZ7kqXklRSJZe/nphYFeCFvbCJN9xp8Vb358DvZviTOsZ+2wue71ezXg//B2/zvs32IKRXWd6ZWPAAAAAElFTkSuQmCC]]A Half Guinea Press Project
-
-:: PassageHeader
-/* Prepended to each rendered passage. */
-!HEADER HEADER HEADER HEADER HEADER HEADER
-<hr>
-
-:: PassageReady
-/* Used for pre-passage-display tasks, like redoing dynamic changes (happens before the rendering of each passage). Generates no output. */
-
-:: Start
-Well met traveler. My name is Bezan Kailar Parvarish and I am the lead research librarian here at the **Insert Library's Name Here**. I have been selected for the termendous task of recording and archiving the plethora of adventurers and adventures of our age. So I want to thank you so much for responding to the herald announcement.
-
-::Campaign
-[[Plot]]
-[[Scenes]]
-[[Timeline]]
-
-:: Plot
-
-:: Scenes
-
-:: Timeline
-
-:: Characters
-[[Player Characters|PCs]]
-[[Non-Player Characters|NPCs]]
-
-:: PCs
-
-:: NPCs
-NPC Template
-Name
-Short Descriptor
-Quote
-Description
-Sight
-Sound
-Tactile
-Smell
-Voice
-Personality
-Roleplaying Concepts
-Alignment
-Motivation
-Occupation
-Background
-Relationships
-Key Info
-Plot Hook
-Stat Block
-
-Yellow King
-Camilla
-Cassilda
-Marquis DeCarabas
-Daughter of the Marquis
-Achilles
-Icarus
-Dadelous
-Technoblade/Boar God/Blood God
-Ulyseus
-Odyseus
-Hermes
-Hades
-Baldur
-Gilgamesh
-Napoleon
-Rasputin
-Czar/Czarina Romanov(a)
-Anastasia/Rapunzel
-Othello
-Coyote Trickster God
-Fallen Yomi Kami
-Nyarlathotep
-Dream/Loki
-Wilbur
-Pleiades
--Maia, eldest, mother to Hermes, nurturer
--Electra, protector of troy, the star that can't be seen
--Taygete, doe with golden horns
--Alcyone, kingfisher
--Celaeno, the dark one
--Sterope, lightning
--Merope, youngest, protectors of sailors, married a mortal and faded
-Hyades
--Phaisyle ('filtered light')
--Coronis ('crow')
--Cleeia ('famous')
--Phaeo ('dim')
--Eudora ('generous')
--Philia
--Ambrosia
--Polyxo
--Pytho
--Synecho
--Baccho	
--Cardie
--Niseis
--Dione
--Thyone
--Prodice
-Hyas
-The Cursed Minstel
-Tristin and Isolade
-The Emperor
-The Seneschal
-Aldebaran
-Mephistopheles
-The Imperial Legate
-The Legion Legate
-The Broad Tribune
-The Camp Prefect
-The Narrow Tribune
-The Aquilifer
-The Cornicen
-The Imaginifer
-The Head Of Police
-The Head Of Secret Police
-The Pirate Contact
-The Black Market Contact
-The Irregulars Contact
-The Peasant or Farmer Contact
-The Port Facility Contact
-The Magic Equipment Shop Owner
-Reggie Gnoll Arre Gu Lar The Gnoll
-Bar Owner
-Bartender
-Underworld Contact
-
-:: World
-[[Places]]
-[[Races]]
-[[Classes]]
-[[Science and Magic]]
-[[Lore]]
-[[Organizations]]
-[[Items]]
-
-:: Races
-Grimwalker
-
-:: Classes
-
-:: Science and Magic
-
-:: Places
-The Dead Atoll
-Lake Hali
-Carcosa
-Isle Of The Titan
-The Corpse Of The Titan
-The Dragon Teeth
-The Waste Lands
-The Pirate Fief Islands
-
-:: Lore
-
-:: Organizations
+:: Organization
 The Houses Of Science
 The Waste Land Horde
 The Two Legions
