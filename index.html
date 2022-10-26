@@ -111,7 +111,8 @@ Press Project</tw-passagedata><tw-passagedata pid="7" name="StoryMenu" tags="" p
 [[Mechanic]]</tw-passagedata><tw-passagedata pid="8" name="StoryShare" tags="" position="975,100" size="100,100">/* Used to populate the contents of the Share dialog. Intended for social media links. */</tw-passagedata><tw-passagedata pid="9" name="PassageReady" tags="" position="1100,100" size="100,100">/* Used for pre-passage-display tasks, like redoing dynamic changes (happens before the rendering of each passage). Generates no output. */</tw-passagedata><tw-passagedata pid="10" name="PassageHeader" tags="" position="1225,100" size="100,100">/* Prepended to each rendered passage. */
 !HEADER HEADER HEADER HEADER HEADER HEADER
 &lt;hr&gt;
-&lt;&lt;print passage.title&gt;&gt;</tw-passagedata><tw-passagedata pid="11" name="PassageFooter" tags="" position="100,225" size="100,100">/* Appended to each rendered passage. */
+&lt;&lt;print passage()&gt;&gt;
+&lt;&lt;br&gt;&gt;</tw-passagedata><tw-passagedata pid="11" name="PassageFooter" tags="" position="100,225" size="100,100">/* Appended to each rendered passage. */
 &lt;br&gt;
 &lt;hr&gt;
 !FOOTER
