@@ -50,9 +50,11 @@ Press Project
 /* Prepended to each rendered passage. */
 !HEADER HEADER HEADER HEADER HEADER HEADER
 <hr>
+passage.title
 
 :: PassageFooter
 /* Appended to each rendered passage. */
+<br>
 <hr>
 !FOOTER
 [[Site Stuff]]
