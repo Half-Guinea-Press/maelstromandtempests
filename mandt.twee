@@ -50,7 +50,8 @@ Press Project
 /* Prepended to each rendered passage. */
 !HEADER HEADER HEADER HEADER HEADER HEADER
 <hr>
-<<print passage.title>>
+<<print passage()>>
+<<br>>
 
 :: PassageFooter
 /* Appended to each rendered passage. */
