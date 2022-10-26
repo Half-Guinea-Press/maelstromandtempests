@@ -1,0 +1,7 @@
+::Story
+[[Plotline]]
+[[Character Arc]]
+[[Scene]]
+[[Timeline]]
+[[Lore]]
+

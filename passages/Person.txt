@@ -1,0 +1,104 @@
+:: Person
+[[Player Characters|PCs]]
+[[Non-Player Characters|NPCs]]
+[[Organization]]
+
+NPC Template
+Name
+Short Descriptor
+Quote
+Description
+Sight
+Sound
+Tactile
+Smell
+Voice
+Personality
+Roleplaying Concepts
+Alignment
+Motivation
+Occupation
+Background
+Relationships
+Key Info
+Plot Hook
+Stat Block
+
+Yellow King
+Camilla
+Cassilda
+Marquis DeCarabas
+Daughter of the Marquis
+Achilles
+Icarus
+Dadelous
+Technoblade/Boar God/Blood God
+Ulyseus
+Odyseus
+Hermes
+Hades
+Baldur
+Gilgamesh
+Napoleon
+Rasputin
+Czar/Czarina Romanov(a)
+Anastasia/Rapunzel
+Othello
+Coyote Trickster God
+Fallen Yomi Kami
+Nyarlathotep
+Dream/Loki
+Wilbur
+Pleiades
+-Maia, eldest, mother to Hermes, nurturer
+-Electra, protector of troy, the star that can't be seen
+-Taygete, doe with golden horns
+-Alcyone, kingfisher
+-Celaeno, the dark one
+-Sterope, lightning
+-Merope, youngest, protectors of sailors, married a mortal and faded
+Hyades
+-Phaisyle ('filtered light')
+-Coronis ('crow')
+-Cleeia ('famous')
+-Phaeo ('dim')
+-Eudora ('generous')
+-Philia
+-Ambrosia
+-Polyxo
+-Pytho
+-Synecho
+-Baccho	
+-Cardie
+-Niseis
+-Dione
+-Thyone
+-Prodice
+Hyas
+The Cursed Minstel
+Tristin and Isolade
+The Emperor
+The Seneschal
+Aldebaran
+Mephistopheles
+The Imperial Legate
+The Legion Legate
+The Broad Tribune
+The Camp Prefect
+The Narrow Tribune
+The Aquilifer
+The Cornicen
+The Imaginifer
+The Head Of Police
+The Head Of Secret Police
+The Pirate Contact
+The Black Market Contact
+The Irregulars Contact
+The Peasant or Farmer Contact
+The Port Facility Contact
+The Magic Equipment Shop Owner
+Reggie Gnoll Arre Gu Lar The Gnoll
+Bar Owner
+Bartender
+Underworld Contact
+

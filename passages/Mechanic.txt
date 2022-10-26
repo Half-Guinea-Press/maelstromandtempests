@@ -1,0 +1,5 @@
+:: Mechanic
+[[Race]]
+[[Class]]
+[[Science and Magic]]
+
